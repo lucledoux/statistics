@@ -45,13 +45,3 @@ Use the generated odds and try to beat online betmakers!<br/>
 Good luck 😉 <br/>
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
